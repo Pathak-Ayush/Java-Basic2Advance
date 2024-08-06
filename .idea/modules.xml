@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/String/StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/String/StringBuffer/StringBuffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/String/StringBuilder/StringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/This keywords/This keywords.iml" filepath="$PROJECT_DIR$/This keywords/This keywords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet and swing/applet and swing.iml" filepath="$PROJECT_DIR$/applet and swing/applet and swing.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/classcode/classcode.iml" filepath="$PROJECT_DIR$/classcode/classcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/classes/classes.iml" filepath="$PROJECT_DIR$/oops/classes/classes.iml" />
@@ -27,6 +28,11 @@
       <module fileurl="file://$PROJECT_DIR$/important keywords in java/important keywords in java.iml" filepath="$PROJECT_DIR$/important keywords in java/important keywords in java.iml" />
       <module fileurl="file://$PROJECT_DIR$/input output/input output.iml" filepath="$PROJECT_DIR$/input output/input output.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/interface.iml" filepath="$PROJECT_DIR$/Interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction to maven and ant/introduction to maven and ant.iml" filepath="$PROJECT_DIR$/introduction to maven and ant/introduction to maven and ant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java api/java api.iml" filepath="$PROJECT_DIR$/java api/java api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx/javafx.iml" filepath="$PROJECT_DIR$/javafx/javafx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc architecture/mvc architecture.iml" filepath="$PROJECT_DIR$/mvc architecture/mvc architecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/networking/networking.iml" filepath="$PROJECT_DIR$/networking/networking.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/polymorphims/polymorphims.iml" filepath="$PROJECT_DIR$/oops/polymorphims/polymorphims.iml" />
