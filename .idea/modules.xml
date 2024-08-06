@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/oops/Encapsulations/Encapsulations.iml" filepath="$PROJECT_DIR$/oops/Encapsulations/Encapsulations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/oops/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/classcode/classcode.iml" filepath="$PROJECT_DIR$/classcode/classcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/classes/classes.iml" filepath="$PROJECT_DIR$/oops/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection Framework/collection Framework.iml" filepath="$PROJECT_DIR$/collection Framework/collection Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/complete java  basic to advanced.iml" filepath="$PROJECT_DIR$/.idea/complete java  basic to advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/polymorphims/polymorphims.iml" filepath="$PROJECT_DIR$/oops/polymorphims/polymorphims.iml" />
     </modules>
   </component>
 </project>
