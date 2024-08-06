@@ -2,13 +2,32 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/oops/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/oops/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Access modifiers/Access modifiers.iml" filepath="$PROJECT_DIR$/Access modifiers/Access modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Annotations/Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_concept/Data_concept.iml" filepath="$PROJECT_DIR$/Data_concept/Data_concept.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/Encapsulations/Encapsulations.iml" filepath="$PROJECT_DIR$/oops/Encapsulations/Encapsulations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" filepath="$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/oops/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEnum/JavaEnum.iml" filepath="$PROJECT_DIR$/JavaEnum/JavaEnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/String/StringBuffer/StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/String/StringBuilder/StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/This keywords/This keywords.iml" filepath="$PROJECT_DIR$/This keywords/This keywords.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/classcode/classcode.iml" filepath="$PROJECT_DIR$/classcode/classcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/classes/classes.iml" filepath="$PROJECT_DIR$/oops/classes/classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection Framework/collection Framework.iml" filepath="$PROJECT_DIR$/collection Framework/collection Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/complete java  basic to advanced.iml" filepath="$PROJECT_DIR$/.idea/complete java  basic to advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/data types/data types.iml" filepath="$PROJECT_DIR$/basic/data types/data types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/important keywords in java/important keywords in java.iml" filepath="$PROJECT_DIR$/important keywords in java/important keywords in java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/input output/input output.iml" filepath="$PROJECT_DIR$/input output/input output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/interface.iml" filepath="$PROJECT_DIR$/Interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networking/networking.iml" filepath="$PROJECT_DIR$/networking/networking.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/polymorphims/polymorphims.iml" filepath="$PROJECT_DIR$/oops/polymorphims/polymorphims.iml" />
     </modules>
