@@ -43,3 +43,15 @@ public class IntroClass {
 		obj.displayInfo();
 	}
 }
+
+/*
+⭐⭐⭐⭐⭐⭐   type of the classes in the ⭐⭐⭐⭐⭐
+1  concrete class
+2. abstract class
+3. interface class
+4. nested class
+5 enum class
+6 static nested class
+7 Anonymous Class
+8.local class
+*/
