@@ -7,8 +7,9 @@ public class Calculator2 {
 	}
 
 	public static void main(String[] args) {
-//			create the object of the class
+        //create the object of the class
 		Calculator2 obj = new Calculator2();
+//		System.out.println(obj);
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter your number n1 ");
 		int n1 = sc.nextInt();
